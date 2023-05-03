@@ -1,3 +1,6 @@
+# Shira Taitelbaum 322207341
+# Oriya Yehudai 211544150
+
 import sys
 from pysmt.shortcuts import Solver, And, Or, Not, BOOL, Symbol, TRUE
 
